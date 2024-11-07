@@ -1,0 +1,31 @@
+﻿cl : command line  warning D9035: option 'Zc:forScope-' has been deprecated and will be removed in a future release
+  GSPlay.cpp
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(11,9): warning C4005: 'M_PI': macro redefinition
+      F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDLLib\include\SDL_stdinc.h(620,9):
+      see previous definition of 'M_PI'
+  
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(182,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(215,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(272,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(304,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(685,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(686,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(890,87): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(890,87): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(890,105): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(890,105): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(891,111): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(891,111): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(902,87): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(902,87): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(902,105): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(902,105): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(904,120): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+F:\Code\Thuc tap ki thuat 20241\HAT-Game\SDL\src\GameStates\GSPlay.cpp(904,120): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 2546 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL.vcxproj -> F:\Code\Thuc tap ki thuat 20241\HAT-Game\x64\Release\SDL.exe
+  0 File(s) copied

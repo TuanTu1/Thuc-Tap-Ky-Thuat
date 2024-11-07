@@ -1,0 +1,10 @@
+Võ Tuấn Hưng & Trần Tuấn Tú
+
+Idea game: Robot wars Arena (Inspiration:TV series Robot Wars)
+	+ 2 Player 2D Game góc nhìn Top-down
+	+ Mỗi người chơi điều khiển 1 nhân vật (Robot) chiến đấu với nhau
+	+ Robot có thanh máu, máu của bên nào về 0 trước sẽ thua
+	+ Mỗi Robot sẽ có vũ khí (cận chiến & súng) để gây sát thương hoặc đẩy lùi kẻ địch 
+	(nếu có thể, các vũ khí sẽ có thông số sát thương và độ xa đẩy lùi khac nhau)
+	+ Sàn đấu sẽ có các vật thể gây hiệu ứng bất lợi (sát thương, làm chậm, v.v...) cho robot chạm phải, xuất hiện & thay đổi liên tục 
+=> Người chơi lựa chọn chiến thuật gây sát thương hoặc đẩy đối thủ vào vùng bất lợi nhằm giành chiến thắng
